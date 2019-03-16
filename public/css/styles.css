@@ -59,3 +59,7 @@ button {
   padding: 8px;
   border-radius: 50%;
 }
+
+button:hover{
+  background: #34a8dd
+}
